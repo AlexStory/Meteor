@@ -8,6 +8,3 @@ meteor-platform
 bootstrap
 accounts-ui
 accounts-password
-accounts-facebook
-accounts-twitter
-accounts-github
